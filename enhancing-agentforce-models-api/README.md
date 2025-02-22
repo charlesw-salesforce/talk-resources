@@ -11,7 +11,7 @@ Enhance Agentforce applications with:
 - [Models API Overview](https://developer.salesforce.com/docs/einstein/genai/guide/models-api.html)
 - [Get Started with the Models API](https://trailhead.salesforce.com/content/learn/modules/get-started-with-einstein-models-api)
 
-### Agentorce
+### Agentforce
 - [Agentforce Agents](https://help.salesforce.com/s/articleView?id=ai.copilot_intro.htm&type=5)
 - [Build Your First Agent with Agentforce](https://trailhead.salesforce.com/content/learn/projects/quick-start-build-your-first-agent-with-agentforce)
 - [Get Started with the Agent API (Pilot)](https://developer.salesforce.com/docs/einstein/genai/guide/agent-api-get-started.html)
